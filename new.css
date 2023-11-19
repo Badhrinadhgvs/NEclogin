@@ -1,0 +1,38 @@
+
+        #log{
+            padding: 5px;
+            margin: 5px;
+            border: 2px solid black;
+            background-color: cadetblue;
+            border-radius: 60px;
+            height: 45px;
+            width: 110px;
+        }
+        #hed{
+            color:blue;
+            background-position: center;
+        }
+        #hed1{
+            font-style: italic;
+            font-weight: 700;
+            color: rgb(160,3,3);
+        }
+        #text1{
+            width: 200px;
+            height: 30px;
+            background-position: center;
+            background-color: lightgreen;
+            text-align: center;
+            font-weight: 600;
+            color: darkgreen;
+            border-radius: 60px;
+            padding:5px;
+            margin: 5px;
+            border-radius: 75px;
+            border-width: 5px;
+        }
+        #back{
+            background-size: cover;
+            height: 2000px;
+            -moz-backface-visibility: visible;
+        }
